@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 - 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI)
-- 🌱I'm learning Machine Learning algorithms
+- 🌱I'm currently learning Machine Learning algorithms
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: I listen to a lot of Taylor Swift. Also I love video games!
 
 <p align="center">
-<img src="ian-dooley-DJ7bWa-Gwks-unsplash.jpg" width="1000px" />
+<img src="tech_neoncircuitboard_857021704_medium_lc5h05.jfif" width="1000px" />
 
 <br />
 
