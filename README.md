@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🎓 I'm a 2nd year BTech. Computer Science Student at VIT Vellore
 
 - 😄 Pronouns: He/Him
-- 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI)
+- 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI_V2)
 - 🌱I'm currently learning Machine Learning algorithms
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: I listen to a lot of Taylor Swift. Also I love video games!
