@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 
 
-## 🎓 I'm a 2nd year BTech. Computer Science Student at VIT Vellore
+## 🎓 I'm a second year B.Tech Computer Science student at VIT Vellore
 
 - 😄 Pronouns: He/Him
 - 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI_V2)
 - 🌱I'm currently learning Deep Learning Algorithms
 - 💬 Ask me about literally anything
-- ⚡ Fun fact: I listen to a lot of Taylor Swift. Also I love video games!
+- ⚡ Fun fact: I listen to a lot of Taylor Swift. Also I love video games and watching anime!
 
 <p align="center">
-<img src="tech_neoncircuitboard_857021704_medium_lc5h05.jfif" width="1000px" />
+<img src="img/AI_Brain_Image.jpg" width="1000px" />
 
 <br />
 
