@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## 🎓 I'm a third year B.Tech Computer Science student at VIT Vellore
+## 🎓 I'm a fourth-year B.Tech Computer Science student at VIT Vellore
 
 - 😄 Pronouns: He/Him
 - 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI_V2)
