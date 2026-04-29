@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 
 
-## 🎓 I'm a fourth-year B.Tech Computer Science student at VIT Vellore
+## I'm a Data Scientist with 2 years of experience at a startup with a focus on Computer Vision, Generative Image AI and Anomaly Detection!
 
 - 😄 Pronouns: He/Him
-- 🔭I'm currently working on [Dinosaur Game AI](https://github.com/AtharvaShekatkar/DinoGameAI_V2)
-- 🌱I'm currently learning Deep Learning Algorithms
-- 💬 Ask me about literally anything
-- ⚡ Fun fact: I listen to a lot of Taylor Swift. Also I love video games and watching anime!
+- ⚡ Fun fact: Also I love video games, board games and watching anime!
 
 <p align="center">
 <img src="img/AI_Brain_Image.jpg" width="1000px" />
