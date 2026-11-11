@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Data Scientist with 2 years of experience at a startup with a focus on Computer Vision, Generative Image AI and Anomaly Detection!
+## I'm a Data Scientist with 2 YOE, currently a Master's student learning about HPC at KTH Royal Institute of Technology!
+### Before this, I worked at a startup with a focus on Computer Vision, Generative Image AI and Anomaly Detection!
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Also I love video games, board games and watching anime!
+- ⚡ Fun fact: Also I love video games, board games, watching anime and cosplay!
 
 <p align="center">
 <img src="img/AI_Brain_Image.jpg" width="1000px" />
